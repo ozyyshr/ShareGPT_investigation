@@ -8,7 +8,7 @@ The ShareGPT collection we used for annotation is publically available [here](ht
 By first configuring GPT API and running `python annotation.py --data_file $DATA$ --demo_file $DEMO$ --output_file $OUTPUT$`, the annotation starts with default engine `GPT-4`.
 
 ### Annotated ShareGPT Data
-Due to the high demand for computing resources, we provide our annotated version [here](https://drive.google.com/file/d/1zAU3uWhNSN6NvMl85cmVi2mj-uvswE_O/view?usp=drive_link), where for each sample, we have the following attributes:
+Due to the high demand for computing resources, we provide our annotated version [here](https://drive.google.com/drive/folders/10oaeheoi8-kj3-aMlUYRrsDZyqsUgHst?usp=sharing), where for each sample, we have the following attributes:
 
 ```
 
